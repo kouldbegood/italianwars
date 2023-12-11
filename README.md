@@ -1,2 +1,2 @@
 # italianwars
-this is a board game for Italian wars period
+This is a board game for Italian wars period.
